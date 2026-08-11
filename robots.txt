@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://srimanaditya123-ops.github.io/coupan-swap-/sitemap.xml
